@@ -1,47 +1,29 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Sangeetha</h1>
 
-👋 Hi, I'm **Sangeetha** — an aspiring **AI & Machine Learning Engineer** passionate about building intelligent applications with Python.
+<h3 align="center">
+Aspiring AI & Machine Learning Engineer | Python Developer | Building AI Solutions
+</h3>
 
-🔭 **Currently Working On**
+<p align="center">
+Passionate about developing intelligent applications with Python, Machine Learning, and Deep Learning. I enjoy transforming ideas into real-world AI solutions while continuously learning and embracing new technologies.
+</p>
 
-* 🤖 AI & Machine Learning Projects
-* 🧠 Deep Learning & Computer Vision Applications
-* 🚀 End-to-End AI Solutions with FastAPI
-
-🌱 **Currently Learning**
-
-* 🤖 Generative AI & Large Language Models (LLMs)
-* 🐳 Docker & Kubernetes
-* ☁️ MLOps & Cloud Deployment
-* ⚡ Advanced Python & FastAPI
-
-👯 **Looking to Collaborate On**
-
-* 🌍 Open Source AI/ML Projects
-* 📊 Data Science & Deep Learning Applications
-* 💡 Innovative AI Solutions
-
-🤝 **Looking for Help With**
-
-* ☁️ AWS & Cloud Services
-* 🔄 CI/CD for AI Applications
-* 📦 Production Model Deployment
-
-💬 **Ask Me About**
-
-* 🐍 Python
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* 📊 Data Science
-* ⚡ FastAPI
-* 🔧 Git & GitHub
-
-⚡ **Fun Fact**
-
-> *"I believe every AI model starts with curiosity and grows through continuous learning and experimentation."*
+<p align="center">
+🌱 Lifelong Learner • 🤖 AI Enthusiast • 💡 Problem Solver • 🚀 Open to AI/ML Opportunities
+</p>
 
 ---
 
+## 🚀 About Me
+
+* 🔭 **Currently working on:** AI & Machine Learning Projects
+* 🌱 **Learning:** Deep Learning, Generative AI, Computer Vision, FastAPI, Docker, Kubernetes & MLOps
+* 👯 **Looking to collaborate on:** Open Source AI/ML Projects
+* 🤝 **Interested in:** Production AI, Cloud Deployment & LLM Applications
+* 💬 **Ask me about:** Python, Machine Learning, TensorFlow, PyTorch, FastAPI, Git & GitHub
+* ⚡ **Fun fact:** *I believe every great AI solution begins with curiosity and continuous learning.*
+
+---
 # 🌐 Connect With Me
 
 <p align="left">
@@ -109,4 +91,21 @@
 
 ---
 
-### 🚀 *"Building intelligent solutions, one project at a time."*
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=Sandy200531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=Sandy200531&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sandy200531&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Sandy200531&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 *"Building intelligent solutions, one project at a time."*  is there any changes needed 
