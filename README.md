@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sangeetha</h1>
 
+<h1 align="center">Hi 👋, I'm Sangeetha</h1>
 <h3 align="center">
 Aspiring AI & Machine Learning Engineer | Python Developer | Building AI Solutions
 </h3>
 
 <p align="center">
-Passionate about developing intelligent applications with Python, Machine Learning, and Deep Learning. I enjoy transforming ideas into real-world AI solutions while continuously learning and embracing new technologies.
+Passionate about building intelligent, scalable AI solutions using <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong>. I enjoy solving real-world problems, continuously learning new technologies, and turning ideas into impactful applications.
 </p>
 
 <p align="center">
